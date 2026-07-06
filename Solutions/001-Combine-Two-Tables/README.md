@@ -1,5 +1,5 @@
-# Question Link: Combine Two Tables
-https://leetcode.com/problems/combine-two-tables/
+# Question Link: 
+[LeetCode - Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 
 # My Approach
 In this problem, the goal is to find the first name, last name, city, and state for each person. We are given two tables, 
