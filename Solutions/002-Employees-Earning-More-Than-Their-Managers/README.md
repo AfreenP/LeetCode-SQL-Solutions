@@ -1,4 +1,4 @@
-# 1 Question Link: 181. Employees Earning More Than Their Managers
+# 2 Question Link: 181. Employees Earning More Than Their Managers
 [LeetCode -Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
 
 # My Approach
