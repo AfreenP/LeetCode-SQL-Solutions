@@ -1,4 +1,4 @@
-# Question Link: 
+# Question Link: 175. Combine Two Tables
 [LeetCode - Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 
 # My Approach
