@@ -2,6 +2,7 @@
 [LeetCode -Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
 
 # My Approach
+
 In this problem, the goal is to find employees who earn more than their managers.
 The Employee table contains both employees and managers. The `managerId` column tells us which employee is the manager of each employee.
 I used a SELF JOIN to join the Employee table with itself. One copy represents the employee, and the other represents their manager.
@@ -11,6 +12,7 @@ I included the employee's name in the result.
 Note: whenever we see a relationship between rows in the same table, a self-JOIN should immediately come to mind.
 
 Why?
+
 •	Employee and Manager are both stored in the same table. 
 
 •	We need to compare two rows from the same table → perfect use case for a Self JOIN. 
