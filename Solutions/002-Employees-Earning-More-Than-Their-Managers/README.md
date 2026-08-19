@@ -20,7 +20,10 @@ Why?
 •	Simple and readable. 
 
 Why not the others?
+
 •	LEFT JOIN: Works, but unnecessary because employees without managers don't need to be compared. 
+
 •	Subquery: Works but is less direct/readable here. We're comparing two related rows, so JOIN expresses the relationship better. 
+
 Rule to remember:
 When we need to compare related rows within the same table, think SELF JOIN first.
